@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-config-client
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: maji48
+Implementation-Vendor-Id: spring-cloud-config-client
+Build-Jdk: 1.8.0_102
+Implementation-URL: https://projects.spring.io/spring-cloud/spring-clo
+ ud-config-client
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
